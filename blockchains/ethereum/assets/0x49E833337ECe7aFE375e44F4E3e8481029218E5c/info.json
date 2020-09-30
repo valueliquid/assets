@@ -1,8 +1,30 @@
 {
-    "name": "YFValue",
-    "website": "https://yfv.finance",
-    "short_description": "The YFValue protocol aims to bring fairness, true value, and innovation to yield farming.",
-    "socials": [],
-    "explorer": "https://etherscan.io/token/0x49e833337ece7afe375e44f4e3e8481029218e5c",
-    "research": ""
+  "name": "YFValue",
+  "source_code": "https://github.com/yfv-finance",
+  "website": "https://yfv.finance",
+  "short_description": "The YFValue protocol aims to bring fairness, true value, and innovation to yield farming.",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/FinanceYfv",
+      "handle": "yfvalue"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/@yfv.finance",
+      "handle": "yfvalue"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/FinanceYFV",
+      "handle": "yfvalue"
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/Dpvd7tp",
+      "handle": "yfvalue"
+    }
+  ],
+  "explorer": "https://etherscan.io/token/0x49e833337ece7afe375e44f4e3e8481029218e5c",
+  "research": ""
 }
